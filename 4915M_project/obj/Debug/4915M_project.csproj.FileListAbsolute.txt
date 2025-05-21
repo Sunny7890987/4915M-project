@@ -1,0 +1,10 @@
+D:\4915M-project\4915M_project\4915M_project\obj\Debug\4915M_project.csproj.AssemblyReference.cache
+D:\4915M-project\4915M_project\4915M_project\obj\Debug\_4915M_project.Properties.Resources.resources
+D:\4915M-project\4915M_project\4915M_project\obj\Debug\_4915M_project.SystemUI.frmLogin.resources
+D:\4915M-project\4915M_project\4915M_project\obj\Debug\4915M_project.csproj.GenerateResource.cache
+D:\4915M-project\4915M_project\4915M_project\obj\Debug\4915M_project.csproj.CoreCompileInputs.cache
+D:\4915M-project\4915M_project\4915M_project\bin\Debug\4915M_project.exe.config
+D:\4915M-project\4915M_project\4915M_project\bin\Debug\4915M_project.exe
+D:\4915M-project\4915M_project\4915M_project\bin\Debug\4915M_project.pdb
+D:\4915M-project\4915M_project\4915M_project\obj\Debug\4915M_project.exe
+D:\4915M-project\4915M_project\4915M_project\obj\Debug\4915M_project.pdb
